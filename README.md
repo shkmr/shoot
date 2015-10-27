@@ -5,7 +5,7 @@ How to play:
 
      $ gosh shoot.scm
 
-bdf.scm is taken from  http://sourceforge.net/p/gauchegc/code/ci/master/tree/file.bdf/
+bdf.scm is taken from [Gauche Garbage Collection](http://sourceforge.net/p/gauchegc/code/ci/master/tree/file.bdf/).
 
 `data/12x24.bdf` and `data/a14.bdf` is taken from X11 font server.
 
