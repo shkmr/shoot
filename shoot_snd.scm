@@ -1,5 +1,3 @@
-(load "./bdf.scm")
-(select-module user)
 ;;;
 ;;; SHOOT!
 ;;;

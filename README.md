@@ -3,7 +3,7 @@ A shooting game written in Gauche-gl
 
 How to play:
 
-     $ gosh shoot.scm
+     $ gosh -l./bdf.scm shoot.scm
 
 bdf.scm is taken from [Gauche Garbage Collection](http://sourceforge.net/p/gauchegc/code/ci/master/tree/file.bdf/).
 
